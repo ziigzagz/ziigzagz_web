@@ -11,15 +11,12 @@
 
  <!-- Template Main JS File -->
  <script src="assets/js/main.js"></script>
- <!-- Google tag (gtag.js) -->
- <script async src="https://www.googletagmanager.com/gtag/js?id=G-7X3CJ4BBBY"></script>
- <script>
-     window.dataLayer = window.dataLayer || [];
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XK5KPLPNX5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-     function gtag() {
-         dataLayer.push(arguments);
-     }
-     gtag('js', new Date());
-
-     gtag('config', 'G-7X3CJ4BBBY');
- </script>
+  gtag('config', 'G-XK5KPLPNX5');
+</script>
