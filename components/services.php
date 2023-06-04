@@ -29,7 +29,7 @@
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
           <div class="icon"><i class="bi bi-briefcase"></i></div>
             <h4 class="title"><a href="">รับทำเว็บไซต์โฆษณาขนาดใหญ่ 20 หน้าขึ้นไป</a></h4>
-            <p class="description">เริ่มต้น 3,499</p>
+            <p class="description">เริ่มต้น 3,499 บาท</p>
             <p class="description">เหมาะสำหรับเว็บไซต์สำหรับโชว์สินค้า และข้อมูลติดต่อเพื่อโฆษณาธุรกิจ</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
@@ -47,7 +47,7 @@
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="600">
           <div class="icon"><i class="bi bi-briefcase"></i></div>
             <h4 class="title"><a href="">รับทำเว็บไซต์โฆษณาและระบบจัดการขนาดใหญ่ 20 หน้าขึ้นไป</a></h4>
-            <p class="description">เริ่มต้น 3,999</p>
+            <p class="description">เริ่มต้น 3,999 บาท</p>
             <p class="description">เหมาะสำหรับเว็บไซต์สำหรับโชว์สินค้า และข้อมูลติดต่อเพื่อโฆษณาธุรกิจ</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="700">
