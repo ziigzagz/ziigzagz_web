@@ -8,6 +8,15 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
   <?php include_once("css.php"); ?>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XK5KPLPNX5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XK5KPLPNX5');
+</script>
 </head>
 
 <body>
