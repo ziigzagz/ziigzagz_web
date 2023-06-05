@@ -77,7 +77,7 @@
           <p><em>AOYAMA THAI, Rayong, TH </em></p>
           <ul>
             <li>ทำระบบส่งเอกสารคำร้องอิเล็กทรอนิกส์ IT JOB REQUEST, VPN REQUEST, SE REQUEST ให้หัวหน้างานอนุมัติ</li>
-            <li>ทำระบบแจ้งเตือนผ่านไลน์ด้วย K2 Instant เขียนด้วย C#</li>
+            <li>ทำระบบแจ้งเตือนผ่านไลน์ด้วย K2 service instance เขียนด้วย C#</li>
             <li>ออกแบบ Workflow ของเอกสารทั้งหมด</li>
           </ul>
         </div>
