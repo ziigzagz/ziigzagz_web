@@ -56,14 +56,14 @@
             <li>วิเคราะห์ระบบ</li>
             <li>ออกแบบ UX/UI</li>
             <li>ออกแบบและสร้างฐานข้อมูล</li>
-            <li>เขียนโปรแกรมด้วย PHP</li>
+            <li>เขียนเว็บแอพด้วย PHP</li>
             <li>ออกแบบเว็บไซต์</li>
             <li>ทดสอบระบบ</li>
             <li>บำรุงรักษาและปรับปรุงเว็บไซต์</li>
           </ul>
         </div>
         <div class="resume-item">
-          <h4>Widnows App Developer</h4>
+          <h4>Windows App Developer</h4>
           <h5>2022 - 2023</h5>
           <p><em>AOYAMA THAI, Rayong, TH </em></p>
           <ul>
