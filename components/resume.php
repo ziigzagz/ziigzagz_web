@@ -81,14 +81,14 @@
             <li>ออกแบบ Workflow ของเอกสารทั้งหมด</li>
           </ul>
         </div>
-        <div class="resume-item">
+        <!-- <div class="resume-item">
           <h4>Fullstack Developer</h4>
           <h5>2023 - Now</h5>
           <p><em>Ideabranch, Bangkok, TH </em></p>
           <ul>
             <li>พัฒนาเว็บไซต์ Umay+</li>
           </ul>
-        </div>
+        </div> -->
       </div>
     </div>
 

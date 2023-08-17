@@ -8,7 +8,6 @@
         </div>
 
         <div class="row" data-aos="fade-in">
-
           <div class="col-lg-5 d-flex align-items-stretch">
             <div class="info">
               <div class="address">

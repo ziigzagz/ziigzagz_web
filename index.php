@@ -38,7 +38,7 @@
     // include_once("components/portfolio.php");
     include_once("components/services.php");
     // include_once("components/testimonials.php");
-    include_once("components/contact.php");
+    // include_once("components/contact.php");
     ?>
   </main><!-- End #main -->
 
