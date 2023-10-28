@@ -7,6 +7,8 @@
   <title>ziiGzaGz</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
+
+  <?php include_once("meta.php"); ?>
   <?php include_once("css.php"); ?>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK5KPLPNX5"></script>
