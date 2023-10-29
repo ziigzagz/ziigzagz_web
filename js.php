@@ -12,11 +12,11 @@
  <!-- Template Main JS File -->
  <script src="assets/js/main.js"></script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HWDNJ6JM5D"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XW6580P7R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-HWDNJ6JM5D');
+  gtag('config', 'G-1XW6580P7R');
 </script>
