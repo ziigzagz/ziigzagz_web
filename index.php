@@ -9,14 +9,14 @@
 
   <?php include_once("components/meta.php"); ?>
   <?php include_once("css.php"); ?>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XK5KPLPNX5"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XW6580P7R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-XK5KPLPNX5');
+  gtag('config', 'G-1XW6580P7R');
 </script>
 </head>
 
