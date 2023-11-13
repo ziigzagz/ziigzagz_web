@@ -27,7 +27,7 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.ziigzagz.online</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.ziigzagz.com</span></li>
                   <!-- <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li> -->
                   <li><i class="bi bi-chevron-right"></i> <strong>Address:</strong> <span>Rama 9, Bangkok</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
